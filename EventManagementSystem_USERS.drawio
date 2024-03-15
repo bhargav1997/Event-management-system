@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T17:09:35.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="B_7vaQbO7_C5IZAV9zCQ" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T17:13:38.948Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DtOOZtLV7V9aTlXiE0XA" version="23.1.4" type="github">
   <diagram name="Page-1" id="mxeEaV4emvxGSS3DbPl-">
-    <mxGraphModel dx="1592" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="918" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,6 +14,11 @@
             <mxPoint x="530" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FOB3c_veXwHD5zKrci4t-17" value="Can View Events / Register" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FOB3c_veXwHD5zKrci4t-14">
+          <mxGeometry x="-0.1672" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FOB3c_veXwHD5zKrci4t-1" value="Event Management System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="40" width="80" height="80" as="geometry" />
         </mxCell>
@@ -21,17 +26,23 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="340" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="260" />
-              <mxPoint x="281" y="260" />
+              <mxPoint x="420" y="290" />
+              <mxPoint x="281" y="290" />
+              <mxPoint x="281" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FOB3c_veXwHD5zKrci4t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOB3c_veXwHD5zKrci4t-4" target="FOB3c_veXwHD5zKrci4t-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="260" />
-              <mxPoint x="560" y="260" />
+              <mxPoint x="420" y="290" />
+              <mxPoint x="560" y="290" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOB3c_veXwHD5zKrci4t-18" value="Can Manage Coordinators / Faculty Members" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FOB3c_veXwHD5zKrci4t-9">
+          <mxGeometry x="-0.7722" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOB3c_veXwHD5zKrci4t-4" value="Admin" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -40,6 +51,11 @@
         <mxCell id="FOB3c_veXwHD5zKrci4t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FOB3c_veXwHD5zKrci4t-6" target="FOB3c_veXwHD5zKrci4t-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOB3c_veXwHD5zKrci4t-19" value="Add / View Staff, Assign Tasks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FOB3c_veXwHD5zKrci4t-10">
+          <mxGeometry x="-0.2807" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOB3c_veXwHD5zKrci4t-6" value="Event Coordinators" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -56,14 +72,19 @@
             <mxPoint x="280" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOB3c_veXwHD5zKrci4t-11" value="Staff &lt;br&gt;Members" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="FOB3c_veXwHD5zKrci4t-20" value="Add Students / Assign Tasks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FOB3c_veXwHD5zKrci4t-12">
+          <mxGeometry x="-0.2289" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOB3c_veXwHD5zKrci4t-11" value="Staff &lt;br&gt;&amp;amp; Vendors" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="470" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FOB3c_veXwHD5zKrci4t-13" value="Students" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FOB3c_veXwHD5zKrci4t-15" value="General &lt;br&gt;Public" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="670" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="720" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
