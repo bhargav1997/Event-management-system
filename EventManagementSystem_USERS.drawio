@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T17:00:30.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="G07KZk9f4QVwDnhj2NRA" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T17:04:24.060Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QmnVFCtjJF9LcsgvEElc" version="23.1.4" type="github">
   <diagram name="Page-1" id="mxeEaV4emvxGSS3DbPl-">
     <mxGraphModel dx="1194" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,8 +12,31 @@
         <mxCell id="FOB3c_veXwHD5zKrci4t-1" value="Event Management System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="40" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FOB3c_veXwHD5zKrci4t-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FOB3c_veXwHD5zKrci4t-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="260" />
+              <mxPoint x="281" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOB3c_veXwHD5zKrci4t-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOB3c_veXwHD5zKrci4t-4" target="FOB3c_veXwHD5zKrci4t-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="260" />
+              <mxPoint x="560" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FOB3c_veXwHD5zKrci4t-4" value="Admin" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FOB3c_veXwHD5zKrci4t-6" value="Event Coordinators" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FOB3c_veXwHD5zKrci4t-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
